@@ -21,9 +21,8 @@ The data given to us has the information about loan applicants and if they Defau
 - We can see that as income goes higher the percentage of charged off loan decreases
 - Small business have the highest rate of default
 - Car, credit card and Wedding loans have the lowest rate of default
-- Inference - DTI of over 19 has the highest rate of default and as people are more in debt as compared to the income, the chances of default increases
-- Since small business owners had the maximum default rate, so looking down futher into that data.We can see that grade D, E, F and G have 30%- 45% default rate
-- Inference - Small business owners with D,E,F,G grade have the highest default rate
+- DTI of over 19 has the highest rate of default and as people are more in debt as compared to their income, the chances of default increases
+- Since small business owners had the maximum default rate, so looking down further into that data. We can see that grade D, E, F and G of small business owners have 30%- 45% default rate
 
 
 
