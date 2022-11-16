@@ -5,7 +5,7 @@
 We will use EDA to understand what consumer and loan attributes influence the tendency of a default.
 
 
-* Conclusions - The default rate has been analysed with variables such as GRADES, ANNUAL INCOME, PURPOSE OF LOAN, DEBT-TO-INCOME RATIO and finally for SMALL BUSINESS OWNERS having different GRADES since SMALL BUSINESS OWNERS had the maximum default rate 
+* The default rate has been analysed with variables such as GRADES, ANNUAL INCOME, PURPOSE OF LOAN, DEBT-TO-INCOME RATIO and finally for SMALL BUSINESS OWNERS having different GRADES since SMALL BUSINESS OWNERS had the maximum default rate 
 * Group member - AAKASH BEHL
 
 
